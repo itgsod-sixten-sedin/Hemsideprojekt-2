@@ -1,4 +1,4 @@
-# Projekt Tranan #
+# Projekt Grundskola #
 
 Den här uppgiften går ut på att planera, genomföra och dokumentera, och utvärdera ett webbutvecklingsprojekt.
 Projektet består av tre delar: *Planering*, *Implementering*, och *Utvärdering*.
@@ -112,7 +112,7 @@ Diskutera hur projektet gått tillsammans med Daniel eller Bosse med er utvärde
 
 ## <a name="4"></a>4 Kravsspecifikation ##
 
-Ni ska skapa en site för en (påhittad) restaurang - Restaurang Tranan. Ni får själva  välja vilken typ av restaurang det är - lyxrestaurang, bed-and-breakfast, upplevelserestaurang, eller vad ni nu kan tänka er. Vad ni väljer för typ av restaurang avgör naturligtvis vilken målgrupp det riktar sig in på.
+Ni ska skapa en site för en (påhittade) grundskola - Skolan Skola. Titta gärna på er egen gamla skola, vilken funktioner behövs, vilka använder sidan, elever, föräldrar, vilka behov har dom.
 
 #### 4.1 Användargränssnitt ####
 
